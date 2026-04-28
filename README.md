@@ -1,4 +1,4 @@
-# TaxiData YDE - INF 232
+# TaxiData YDE
 
 Une application web moderne pour la collecte et l'analyse des données de transport urbain à Yaoundé.
 
